@@ -1,5 +1,3 @@
-# FAQ Project
-
 ## Overview
 
 The FAQ Project is a Django application designed to manage frequently asked questions (FAQs) with multi-language support. It integrates a WYSIWYG editor for formatting answers, provides a REST API for easy access, and implements caching for improved performance.
