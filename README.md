@@ -93,20 +93,20 @@ print("FAQs added successfully!")
 
 #### Fetch FAQs in English (default)
 ```bash
-curl http://localhost:8000/api/faqs/
+ http://localhost:8000/api/faqs/
 ```
 ![Screenshot 2025-02-01 at 3 47 47 AM](https://github.com/user-attachments/assets/ad34ceb0-35b4-4283-bf0e-13c7cc0715b8)
 
 
 #### Fetch FAQs in Hindi
 ```bash
-curl http://localhost:8000/api/faqs/?lang=hi
+http://localhost:8000/api/faqs/?lang=hi
 ```
 <img width="1440" alt="Screenshot 2025-02-01 at 3 48 51 AM" src="https://github.com/user-attachments/assets/99d7a044-22fe-4782-8ee1-572d7e45ec90" />
 
 #### Fetch FAQs in Bengali
 ```bash
-curl http://localhost:8000/api/faqs/?lang=bn
+http://localhost:8000/api/faqs/?lang=bn
 ```
 <img width="1440" alt="Screenshot 2025-02-01 at 3 49 23 AM" src="https://github.com/user-attachments/assets/97ff443f-2ee2-4c11-a364-d5ae295af0d4" />
 
