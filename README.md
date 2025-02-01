@@ -63,7 +63,7 @@ Access the admin interface at `http://localhost:8000/admin/` and log in using th
 
 you can manually run the commands inside the Django shell:
 ```bash
-from faq_app.models import FAQ  # Replace 'faqs' with your actual app name
+from faq_app.models import FAQ  
 
 FAQ.objects.create(
     question="What is Django?",
